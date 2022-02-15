@@ -39,7 +39,7 @@ margin-bottom: 40px;
 	text-decoration: none;
 }
 
-.fs-button:hover {
+.fs-button:active, .fs-button:hover, .fs-button:visited {
 	background: #B156DD;
 	color: white;
 	font-weight: 500;
