@@ -2,6 +2,10 @@
 max-width: 1240px;
 }
 
+.dnd_area-row-0-max-width-section-centering > .row-fluid {
+max-width: 1240px !important;
+}
+
 .dnd_area-row-0-padding {
 background: #9D2CD4;
 }
@@ -16,10 +20,17 @@ padding: 60px;
 color: #404040;
 font-size: 40px;
 font-weight: 500;
+margin-bottom: 12px;
 }
 
 .fs-description {
 color: #808080;
 font-size: 20px;
 font-weight: 300;
+margin-bottom: 40px;
 }
+
+.fs-button {
+
+}
+
