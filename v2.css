@@ -39,3 +39,9 @@ margin-bottom: 40px;
 	text-decoration: none;
 }
 
+.fs-button:hover {
+	background: #B156DD;
+	color: white;
+	text-decoration: none;
+}
+
