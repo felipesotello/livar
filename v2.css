@@ -1,5 +1,5 @@
 .dnd-section > .row-fluid, .content-wrapper, .header__wrapper {
-max-width: 1240px;
+max-width: 1240px !important;
 }
 
 .dnd_area-row-0-max-width-section-centering > .row-fluid {
