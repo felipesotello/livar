@@ -1,0 +1,25 @@
+.dnd-section > .row-fluid, .content-wrapper, .header__wrapper {
+max-width: 1240px;
+}
+
+.dnd_area-row-0-padding {
+background: #9D2CD4;
+}
+
+.fs-hero-box {
+background: white;
+display: inline-block;
+padding: 60px;
+}
+
+.fs-title {
+color: #404040;
+font-size: 40px;
+font-weight: 500;
+}
+
+.fs-description {
+color: #808080;
+font-size: 20px;
+font-weight: 300;
+}
