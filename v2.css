@@ -1,6 +1,18 @@
+/* header */
+
 .dnd-section > .row-fluid, .content-wrapper, .header__wrapper {
 max-width: 1240px !important;
 }
+
+a.header__menu-link {
+	color: #404040 !important;
+	font-size: 12px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+/* hero */
 
 .dnd_area-row-0-max-width-section-centering > .row-fluid {
 max-width: 1240px !important;
