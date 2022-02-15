@@ -31,6 +31,10 @@ margin-bottom: 40px;
 }
 
 .fs-button {
-
+	background: #9D2CD4;
+	color: white;
+	font-weight: 500;
+	padding: 12px 24px;
+	text-decoration: none;
 }
 
